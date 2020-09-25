@@ -1,0 +1,3 @@
+export const SEARCH_UPDATE = 'SEARCH_UPDATE';
+export const GET_WIKI_DATA = 'GET_WIKI_DATA'
+export const GET_WIKI_DATA_ERROR = 'GET_WIKI_DATA_ERROR'
